@@ -116,7 +116,7 @@ vendor/lib/libqmi_client_qmux.so|5e2f52cc41b05db7b4402476745415ec2f8854e5
 vendor/lib/libqmi_common_so.so|be0e21ebb870adb496a0e83282b261b6a55b86ab
 vendor/lib/libqmi_csi.so|c2905e2ac7a601a7bd3371655e3d9e03a7e3e3fc
 vendor/lib/libqmi_encdec.so|58bfd54c0263bb8cada29121b4945b96329b047b
-vendor/lib/libqmiservices.so|410ce22a2fe872ad274ff40404b0e149866ac7fd
+-vendor/lib/libqmiservices.so|410ce22a2fe872ad274ff40404b0e149866ac7fd
 vendor/lib/libsmemlog.so|cd0182685a1bfdb8a74bce3b2e072e62824d9f17
 
 # Radio - from 
