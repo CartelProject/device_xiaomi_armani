@@ -111,7 +111,7 @@ vendor/lib/libqcci_legacy.so|ec4b29e305e4bec6b356a8fc5ed7b357021154e7
 vendor/lib/libqdi.so|724053077f834efcec6d0ef4696b9140a397491e
 vendor/lib/libqdp.so|ca9d8864dbf5a1c7305ed9a71ad450574e4bd065
 vendor/lib/libqmi.so|8ff40df2a51e30ba9bccce025424086c0e3d8ebe
-vendor/lib/libqmi_cci.so|2b33f20b0a5e2f2fe241991441caf1b22aa7e560
+-vendor/lib/libqmi_cci.so|2b33f20b0a5e2f2fe241991441caf1b22aa7e560
 vendor/lib/libqmi_client_qmux.so|5e2f52cc41b05db7b4402476745415ec2f8854e5
 vendor/lib/libqmi_common_so.so|be0e21ebb870adb496a0e83282b261b6a55b86ab
 vendor/lib/libqmi_csi.so|c2905e2ac7a601a7bd3371655e3d9e03a7e3e3fc
@@ -125,7 +125,7 @@ vendor/bin/qmuxd|8befc8794e9ee89a977d749edde443d979cce7a5
 vendor/bin/radish|fb75180748b791cd16f2bc1ac052f1738308f147
 vendor/bin/rfs_access|a4735d8c0c435552940828078bb8a30d48b168c6
 vendor/bin/rmt_storage|ffc7b3095cbdaa76da396ec6e24150ec87e8cbec
-vendor/lib/libmdmdetect.so|b12c161b855da9a780fc31132350137b7a63ec41
+-vendor/lib/libmdmdetect.so|b12c161b855da9a780fc31132350137b7a63ec41
 vendor/lib/libcneapiclient.so|44c380a1ec4096551d895915dcfe35227b8e0219
 vendor/lib/libconfigdb.so|b14efe3a02b55cffe9b573685cacc39cb3ecc052
 vendor/lib/libdsi_netctrl.so|62df95199b2f5a96e7a778e3ef3f99c04688c597
