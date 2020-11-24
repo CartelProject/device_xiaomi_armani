@@ -22,11 +22,11 @@ $(call inherit-product, device/xiaomi/armani/device.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/armani/armani-vendor.mk)
 
 # Inherit some common LineageOS stuff
-$(call inherit-product, vendor/lineage/config/common_mini_phone.mk)
+$(call inherit-product, vendor/cygnus/configs/common.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_DEVICE := armani
-PRODUCT_NAME := lineage_armani
+PRODUCT_NAME := cygnus_armani
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := HM 1S
 PRODUCT_MANUFACTURER := Xiaomi
@@ -34,7 +34,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Build fingerprint
-BUILD_FINGERPRINT="Xiaomi/armani/armani:4.4.4/KTU84P/V9.2.4.0.KHCCNEK:user/release-keys"
+BUILD_FINGERPRINT := "Xiaomi/armani/armani:4.4.4/KTU84P/V9.2.4.0.KHCCNEK:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="armani-user 4.4.4 KTU84P V9.2.4.0.KHCCNEK release-keys"
