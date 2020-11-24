@@ -223,3 +223,6 @@ WIFI_HIDL_UNIFIED_SUPPLICANT_SERVICE_RC_ENTRY := true
 
 # inherit from the proprietary version
 -include vendor/xiaomi/armani/BoardConfigVendor.mk
+
+# Build Rules
+BUILD_BROKEN_DUP_RULES := true
